@@ -1,2 +1,3 @@
 # Projects_DC
-My DataCamp projects.
+
+Projects completed through DataCamp.
