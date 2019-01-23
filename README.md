@@ -1,3 +1,3 @@
 # Projects_DC
 
-Projects completed through DataCamp.
+Projects completed through Data Camp.
